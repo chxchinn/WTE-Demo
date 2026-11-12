@@ -1,0 +1,11 @@
+[
+  {
+    "id": "example-1",
+    "service": "fuel",
+    "year": "2024",
+    "image": "assets/projects/example-1.jpg",
+    "th": {"title": "ชื่อโครงการ", "location": "จังหวัด", "summary": "สรุปสั้น ๆ ของโครงการ"},
+    "en": {"title": "Project name", "location": "Province", "summary": "A short summary of the project"},
+    "zh": {"title": "项目名称", "location": "省份", "summary": "项目简介"}
+  }
+]
